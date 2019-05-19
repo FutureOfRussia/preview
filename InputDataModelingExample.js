@@ -1,3 +1,7 @@
+/*
+  Пример моделирования входных данных с помощью flow.
+*/
+
 /* @flow */
 import moment from 'moment'
 
