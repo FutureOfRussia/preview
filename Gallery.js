@@ -1,3 +1,7 @@
+/*
+  Плиточная галерея с возможностью просмотра, добавления, редактирования и удаления изображений.
+*/
+
 /* eslint-disable no-plusplus,camelcase,no-nested-ternary */
 import React from 'react'
 import PropTypes from 'prop-types'
