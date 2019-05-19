@@ -1,3 +1,8 @@
+/*
+  Пример создания абстрактного класса для выноса общих методов определения и реагирования
+  на изменение ориентации экрана, а так же навигации.
+*/
+
 /* eslint-disable react/no-unused-state */
 import { Component } from 'react'
 import { AppState } from 'react-native'
