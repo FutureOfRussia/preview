@@ -1,3 +1,8 @@
+/*
+  Пример экрана с анимированным хэдером.
+  При прокрутки контента в ScrollView хэдер сворачивается или разворачивается в зависимости от направления.
+*/
+
 import React from 'react'
 import { View, Animated, Platform } from 'react-native'
 import { totalSize } from 'react-native-dimension'
