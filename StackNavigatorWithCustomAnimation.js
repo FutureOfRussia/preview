@@ -1,3 +1,6 @@
+/*
+  Пример стэка навигатора с измененной анимацией переходов между экранами.
+*/
 import { Easing, Animated } from 'react-native'
 import { createStackNavigator } from 'react-navigation'
 import {
